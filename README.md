@@ -1,2 +1,0 @@
-# quanlyTV
-thuc tap nhom
